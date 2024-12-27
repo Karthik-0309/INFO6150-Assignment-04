@@ -1,0 +1,42 @@
+label {
+    float: left;
+    width: 180px;
+}
+
+#container {
+    width: 700px;
+    margin: auto;
+    background-color: beige;
+}
+#container2 {
+    width: 1200px;
+    margin: auto;
+    background-color: ghostwhite;
+    padding: 100px;
+    visibility: hidden;
+}
+main {
+    padding: 50px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+  }
+
+  body {
+    font-family: "Rubik", sans-serif;
+    line-height: 1;
+    font-weight: 400;
+    color: #555;
+    overflow-x: hidden;
+  }
+
+  .margin001{
+    margin-top: 20px;
+    margin-left: auto;
+  }
+
+  
+
